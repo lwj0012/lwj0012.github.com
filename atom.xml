@@ -4,7 +4,7 @@
   <title><![CDATA[Shelby&Caesar]]></title>
   <link href="http://lwj0012.github.com/atom.xml" rel="self"/>
   <link href="http://lwj0012.github.com/"/>
-  <updated>2012-08-12T05:11:07+08:00</updated>
+  <updated>2012-08-12T06:16:31+08:00</updated>
   <id>http://lwj0012.github.com/</id>
   <author>
     <name><![CDATA[Wenjie Liu]]></name>
@@ -12,5 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The first]]></title>
+    <link href="http://lwj0012.github.com/blog/2012/08/12/the-first/"/>
+    <updated>2012-08-12T06:08:00+08:00</updated>
+    <id>http://lwj0012.github.com/blog/2012/08/12/the-first</id>
+    <content type="html"><![CDATA[<h1>首先</h1>
+
+<p>请忽略时间！！！！！我会告诉你我通了个宵吗？！！！</p>
+
+<h1>如果已经忽略了，那么</h1>
+
+<p>一直都想建一个blog来放我们旅程中发生的事情，但是。。。我懒死了。。。所以，一直拖到现在。</p>
+
+<p>这不是我自己写的博客，额，这么说，这个博客的系统不是我写的。本来打算做的，但是这个效率问题，所以先建这么个地方把东西存起来，到时候那个站建好了再一起放过去就好了。</p>
+
+<p>原谅我～领导，原谅我嘛～～～再不原谅我就撒娇了哦～hiahia～</p>
+
+<h1>最后。。。</h1>
+
+<p>这个站，写文章十分纠结，恐怕你不能很好使用，那你就看，我来写吧～～～</p>
+
+<p>geek的blog啊！！！！本来想用wordpress的，结果那个东西消耗资源了，只好先用这个比较轻量一点的octopress。可是写个博客都要用markdown来写，我暂时还不怎么会用。。。准备看看有没有什么编辑工具能直接导出markdown格式的东东来。。。</p>
+
+<p>先到这里吧，睡觉去了。。。</p>
+
+<p>ps. 今天熬夜的目的是为了看rails和奥运。</p>
+]]></content>
+  </entry>
   
 </feed>
