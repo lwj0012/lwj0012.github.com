@@ -4,7 +4,7 @@
   <title><![CDATA[Shelby&Caesar]]></title>
   <link href="http://lwj0012.github.com/atom.xml" rel="self"/>
   <link href="http://lwj0012.github.com/"/>
-  <updated>2012-08-12T06:16:31+08:00</updated>
+  <updated>2012-08-12T06:21:26+08:00</updated>
   <id>http://lwj0012.github.com/</id>
   <author>
     <name><![CDATA[Wenjie Liu]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[被octopress欺骗了]]></title>
+    <link href="http://lwj0012.github.com/blog/2012/08/12/fooled-by-octopress/"/>
+    <updated>2012-08-12T06:18:00+08:00</updated>
+    <id>http://lwj0012.github.com/blog/2012/08/12/fooled-by-octopress</id>
+    <content type="html"><![CDATA[<p>本来以为博文发出来后会显示具体时间的。。。结果就不痛不痒懒懒散散的显示了个日期，我了个去，暴露了我的不法行为啊。。。</p>
+
+<p>懒得改了，也懒得删除前面的文章了，我是不是很诚实～hiahia～</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The first]]></title>
