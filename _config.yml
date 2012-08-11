@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://lwj0012.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Shelby&Caesar
+subtitle: record any little thing in our journey
+author: Wenjie Liu
 simple_search: http://google.com/search
 description:
 
@@ -72,12 +72,12 @@ twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user: 112468941485549336258
 googleplus_hidden: false
 
 # Pinboard
